@@ -1,2 +1,2 @@
-# go_hello_world
+# Go Hello world
 Hello world in Go
